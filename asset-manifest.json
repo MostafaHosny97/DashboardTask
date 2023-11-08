@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/DashboardTask/static/css/main.57219001.css",
+    "main.js": "/DashboardTask/static/js/main.33131305.js",
+    "static/media/profile.jpeg": "/DashboardTask/static/media/profile.42dea78a607654b954b1.jpeg",
+    "static/media/globe.svg": "/DashboardTask/static/media/globe.98d0e84324c5e1d24d917e5638b84780.svg",
+    "static/media/setting.svg": "/DashboardTask/static/media/setting.3956fe5743676a0dbc97dd57334c5ee3.svg",
+    "static/media/calendar.svg": "/DashboardTask/static/media/calendar.b11a3e1c4fee2fb2879cd5d1f99b5f5a.svg",
+    "static/media/nimbus.svg": "/DashboardTask/static/media/nimbus.d4f4118fd47ec838fdb705465b0e2be6.svg",
+    "static/media/eye.svg": "/DashboardTask/static/media/eye.e2109b32180133ed77219092a5c83947.svg",
+    "static/media/users.svg": "/DashboardTask/static/media/users.09b9b625c89e1086192f0d77d4c11089.svg",
+    "static/media/box.svg": "/DashboardTask/static/media/box.a3401232263428c04b11dff50417bf59.svg",
+    "static/media/help-circle.svg": "/DashboardTask/static/media/help-circle.00b612281d397e267cd254fe799fbae6.svg",
+    "static/media/bag.svg": "/DashboardTask/static/media/bag.7220b9589553d14e38b1aac393aaf7cc.svg",
+    "static/media/arrow-down.svg": "/DashboardTask/static/media/arrow-down.9b9d91f67dae4a8ff4b4380baf9c5c10.svg",
+    "static/media/ring.svg": "/DashboardTask/static/media/ring.109973db52ed16c396e940c854f1f968.svg",
+    "static/media/check.svg": "/DashboardTask/static/media/check.7d1ab4fb9e388c01f1a333c7d2608772.svg",
+    "index.html": "/DashboardTask/index.html",
+    "static/media/log-out.svg": "/DashboardTask/static/media/log-out.08c1240cb00b79d06438feea033a1aa1.svg",
+    "static/media/plus.svg": "/DashboardTask/static/media/plus.b2bc9ebc7252bbdb0a63afbaff9db1d7.svg",
+    "static/media/home.svg": "/DashboardTask/static/media/home.3d13e88dae496fd4a1c8bf11038ec6b3.svg",
+    "static/media/search.svg": "/DashboardTask/static/media/search.6e834babb121cbeec5da8b5dd554bcd7.svg",
+    "static/media/activity.svg": "/DashboardTask/static/media/activity.5535eb61cc97a99864089154c8abd6c4.svg",
+    "static/media/line.svg": "/DashboardTask/static/media/line.8112fa65dc4fd1b3645a1d438d91f13a.svg",
+    "main.57219001.css.map": "/DashboardTask/static/css/main.57219001.css.map",
+    "main.33131305.js.map": "/DashboardTask/static/js/main.33131305.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57219001.css",
+    "static/js/main.33131305.js"
+  ]
+}
